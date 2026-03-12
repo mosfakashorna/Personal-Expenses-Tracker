@@ -2,7 +2,7 @@ expenses = {}
 
 print("""
 1 Add expense
-2 View total spent by category
+2 View total spending by category
 3 Exit
 """)
 
