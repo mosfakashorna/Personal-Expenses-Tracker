@@ -25,9 +25,17 @@ when users want to see their spending summary, the program displays a clear outp
 - Follow the manu options shown in the terminal
 
 # Skills Used
-- Python dictionary
-- Loops (for \ while)
-- Conditional statements (if/ elif/ else)
-- Command line user interaction
-- Counters and accumulation
-- f-string formatting
+- Python dictionaries for structured data storage
+- Functions for modular and reusable code
+- Control flow (while loops, if/elif/else)
+- Command line user interaction (input / print)
+- Functions for modular and reusable code
+- f-string formatting for readable output
+
+# Concepts Practiced
+- Data structures
+- Program flow control
+- Modular programming
+
+# Author 
+Mosfaka Shorna - University of Michigan
